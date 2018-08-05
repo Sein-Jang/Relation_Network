@@ -22,11 +22,11 @@ The purpose of this project is aimed to understand Relation Network for my perso
 
 RN model accuracy
 
-<img src="" height="200"/>
+<img src="figure/soc_acc.png" height="200"/>
 
 RN model loss
 
-<img src="" height="200"/>
+<img src="figure/soc_loss.png" height="200"/>
 
 Valdation
 
