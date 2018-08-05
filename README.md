@@ -14,7 +14,9 @@ The purpose of this project is aimed to understand Relation Network for my perso
 
 ### Usage 
 
------- How to run my code ------
+```bash
+$ python soc_main.py --use_tpu=false --data_dir="The directory where the input datais stored" --model_dir="The direcrtory where the model summaries are stored" 
+```
 
 ## Results
 
