@@ -2,7 +2,7 @@
 Tensorflow Implementation of Relation Network
 
 ## Descriptions
-The purpose of this project is aimed to understand Relation Network for my personal research. First of all, I'll implement **Relation Network** proposed in the paper [A Simple Neural Network Module for Relational Reasoning](https://arxiv.org/abs/1706.01427). Next, implement **Wild Relation Network** proposed in the paper [Measuring Abstract Reasoning in Neural Networks](http://proceedings.mlr.press/v80/santoro18a.html). 
+The purpose of this project is aimed to understand Relation Network for my personal research. First of all, I'll implement **Relation Network** proposed in the paper [A Simple Neural Network Module for Relational Reasoning](https://arxiv.org/abs/1706.01427).
 
 ### Relation Network ?
 
